@@ -1,7 +1,6 @@
 # Pattern Recegnition
 
 
-1)El yazısı karakterlerin, kenar ortalarına olan uzaklıkları alınarak veri seti oluşturulmuştur.
-MaximumLikelihood Estimation kullanılarak değerler hesaplanmıştır.
+1)The data set was created by taking the distances of the handwritten characters from the middle of the edges. Values were calculated using Maximum Likelihood Estimation.
 
-2)Bayes Koşullu Olasılık Önermesi
+2)Bayesian Conditional Probability Proposition
